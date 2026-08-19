@@ -1,0 +1,6 @@
+{
+  "name": "Babu's Radio Services powered by Ishak.AI",
+  "description": "Global world radio tuner featuring an interactive map, real-time live streaming, audio spectrum visualizer, and genre explorer. TUNE · DISCOVER · CONNECT.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
