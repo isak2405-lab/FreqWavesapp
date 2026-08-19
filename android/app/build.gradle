@@ -4,7 +4,7 @@ android {
     namespace = "com.ishakai.FreqWaves"
     compileSdk = rootProject.ext.compileSdkVersion
     defaultConfig {
-        applicationId "com.ishakai.FreqWaves"
+        applicationId = "com.ishakai.FreqWaves"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
