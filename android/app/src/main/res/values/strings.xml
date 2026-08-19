@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FreqWaves</string>
+    <string name="title_activity_main">FreqWaves</string>
+    <string name="package_name">com.ishakai.FreqWaves</string>
+    <string name="custom_url_scheme">com.ishakai.FreqWaves</string>
+</resources>
